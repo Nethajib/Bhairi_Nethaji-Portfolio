@@ -686,7 +686,7 @@ form input, textarea{
     }
 
     .header__socials a{
-        color: var(--color-white);
+        color: var(--color-primary);
     }
 
     /* ========= skills ========== */
